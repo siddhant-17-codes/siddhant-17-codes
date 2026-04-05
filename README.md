@@ -3,14 +3,11 @@
 <h1>Siddhant Thakur</h1>
 <h3>Backend Engineer &nbsp;·&nbsp; AI/ML Systems &nbsp;·&nbsp; Python · FastAPI · PostgreSQL</h3>
 
-<p><em>I build backend systems that are fast, modular, and ready for the real world.</em></p>
+<p><em>Building intelligent backend systems where clean architecture meets real-world scale.</em></p>
 
-<p>
-  <a href="https://www.linkedin.com/in/siddhantthakur-/"><img src="https://img.shields.io/badge/LinkedIn-Siddhant_Thakur-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:siddhantt649@gmail.com"><img src="https://img.shields.io/badge/Email-siddhantt649@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/siddhant-17-codes"><img src="https://img.shields.io/badge/GitHub-siddhant--17--codes-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=siddhant-17-codes&style=flat-square&color=grey&label=profile+views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddhant_Thakur-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhantthakur-/)
+[![Email](https://img.shields.io/badge/Email-siddhantt649@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:siddhantt649@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-siddhant--17--codes-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/siddhant-17-codes)
 
 </div>
 
@@ -20,122 +17,86 @@
 
 Backend engineer focused on building systems that are fast, modular, and maintainable.
 
-I work primarily with **Python · FastAPI · PostgreSQL** — and I've developed a strong edge in AI/ML integration: RAG pipelines, LLM-powered backends, and vector search systems. I care about clean architecture, meaningful abstractions, and writing code that a team can actually maintain.
+I work primarily with **Python · FastAPI · PostgreSQL** — and I've developed a strong edge in
+AI/ML integration: RAG pipelines, LLM-powered backends, and vector search systems.
 
-```text
- Kolkata, India           MCA — Techno Main Salt Lake, 2025 
- Backend + AI Systems    
-```
+-  Focused on: Backend systems, RESTful API design, AI/ML integration
+-  Based in: Kolkata, West Bengal, India
+-  MCA — Techno Main Salt Lake (MAKAUT), 2025 
+-  Currently exploring: Distributed systems, advanced system design patterns
+
 
 ---
 
 ## Tech stack
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>Python · Java · C++ · SQL</td>
-  </tr>
-  <tr>
-    <td><b>Backend & APIs</b></td>
-    <td>FastAPI · SQLAlchemy · Pydantic · Async Programming · RESTful APIs</td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>PostgreSQL · MySQL · Firebase · Relational Modelling · Query Optimisation</td>
-  </tr>
-  <tr>
-    <td><b>AI / ML</b></td>
-    <td>LangChain · LLMs · RAG · FAISS · Vector Embeddings · spaCy · Transformers</td>
-  </tr>
-  <tr>
-    <td><b>Cloud & DevOps</b></td>
-    <td>AWS (S3, EC2, IAM) · Docker · Git · GitHub Actions</td>
-  </tr>
-  <tr>
-    <td><b>Frontend & Mobile</b></td>
-    <td>Flutter · Streamlit · React · HTML · CSS</td>
-  </tr>
-  <tr>
-    <td><b>CS Fundamentals</b></td>
-    <td>DSA · OOP · DBMS · OS · Computer Networks · System Design</td>
-  </tr>
-</table>
+| Area | Technologies |
+|---|---|
+| **Languages** | Python · Java · C++ · SQL |
+| **Backend & APIs** | FastAPI · SQLAlchemy · Pydantic · Async Programming · RESTful APIs |
+| **Databases** | PostgreSQL · MySQL · Firebase · Relational Modelling · Query Optimisation |
+| **AI / ML** | LangChain · LLMs · RAG · FAISS · Vector Embeddings · spaCy · Transformers |
+| **Cloud & DevOps** | AWS (S3, EC2, IAM) · Docker · Git |
+| **Frontend & Mobile** | Flutter · Streamlit · HTML · CSS |
+| **CS Fundamentals** | DSA · OOP · DBMS · OS · Computer Networks · System Design |
 
 ---
 
 ## Featured projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+### VisionaryX 2.0 — Full-stack AI Workspace
+> *FastAPI · React · RAG · Gemini Vision · FLUX · PostgreSQL*
 
-###  ResuHire AI
-**Intelligent Resume & Job Matching System**
+A production-grade AI workspace that lets users query documents with page-level citations, analyse images using Gemini Vision, and generate visuals with FLUX — all from a single interface.
 
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Pydantic` `Async`
+- Implemented RAG pipeline with vector embeddings for context-aware document querying
+- Built FastAPI backend with async I/O and clean separation of concerns
+- Integrated multiple AI models (Gemini, FLUX) through a unified API layer
 
-Traditional job matching is keyword-based and shallow. ResuHire uses a multi-stage semantic pipeline to reason about candidate-role compatibility at a deeper level.
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/siddhant-17-codes/VisionaryX-2.0)
 
+---
+
+### ResuHire AI — Intelligent Resume & Job Matching System
+> *Python · FastAPI · PostgreSQL · SQLAlchemy · Pydantic · Async*
+
+A modular backend system for intelligent resume parsing and candidate-role compatibility scoring.
+
+**The problem it solves:** Traditional job matching is keyword-based and shallow. ResuHire uses a multi-stage decision pipeline to reason about candidate fit at a semantic level.
+
+**Pipeline architecture:**
 ```
-Intent Modelling → Domain Inference
-→ Skill Clustering → Weighted Scoring
-→ Constraint Guards
+Intent Modelling → Domain Inference → Skill Clustering → Weighted Scoring → Constraint Guards
 ```
 
-*Architecture details available on request*
+- Designed normalised PostgreSQL schemas with optimised queries for large-scale resume/job datasets
+- Built fully async RESTful APIs with Pydantic validation for reliable, high-throughput request handling
+- Applied layered architecture with clean separation of concerns throughout
 
-  </td>
-  <td width="50%" valign="top">
+> *Private repo — architecture details & design decisions available on request*
 
-###  VisionaryX 2.0
-**Full-stack AI Workspace**
+---
 
-`FastAPI` `React` `RAG` `Gemini Vision` `FLUX` `PostgreSQL`
+### MindMate — Mental Wellness Support Application
+> *Flutter · Firebase · LLM API Integration*
 
-Query documents with page-level citations, analyse images with Gemini Vision, and generate visuals with FLUX — all from a single unified interface.
+A cross-platform mobile application for context-aware mental wellness support.
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/siddhant-17-codes/VisionaryX-2.0)
+- Built with Firebase Auth, Firestore real-time sync, and structured conversational workflows
+- Integrated LLM APIs for dynamic, session-aware response generation
+- Designed mood assessment logic to guide users through personalised interactions
 
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-###  MindMate
-**Mental Wellness Support Application**
-
-`Flutter` `Firebase` `LLM API`
-
-Cross-platform mobile app with context-aware mental wellness support. Firebase auth + Firestore real-time sync + LLM-driven conversational workflows and mood assessment logic.
-
-*Available for review during interviews*
-
-  </td>
-  <td width="50%" valign="top">
-
-### 📌 Coming soon
-**ResuHire AI going public**
-
-Full documentation, architecture diagrams, design decision docs, and CI/CD pipeline — being published shortly.
-
-*Watch this space*
-
-  </td>
-  </tr>
-</table>
+> *Private repo — available for review during interviews*
 
 ---
 
 ## Certifications
 
-| Certification | Issuer |
-|---|---|
-| AWS Machine Learning Engineer (MLA-C01) | Amazon Web Services |
-| Machine Learning for Data Science | IBM |
-| Journey to Cloud | AWS |
-| Internet of Things | NPTEL |
-| Generative AI | AWS |
+- AWS Machine Learning Engineer (MLA-C01)
+- IBM Machine Learning for Data Science
+- Journey to Cloud — AWS
+- NPTEL Internet of Things
+- AWS Generative AI
 
 ---
 
@@ -164,6 +125,14 @@ Full documentation, architecture diagrams, design decision docs, and CI/CD pipel
 
 ---
 
+## What I'm working on
+
+- Uploading **ResuHire AI** to GitHub with full documentation, architecture diagrams, and CI/CD
+- Writing design decision docs for every project (why these tech choices, what tradeoffs were made)
+- Contributing to open source Python/FastAPI ecosystem
+
+---
+
 <div align="center">
-<sub>Open to backend engineering roles &nbsp;·&nbsp; Available for technical conversations &nbsp;·&nbsp; siddhantt649@gmail.com</sub>
+<sub>Open to backend engineering roles · Available for technical conversations · Reach me at siddhantt649@gmail.com</sub>
 </div>
