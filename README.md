@@ -15,15 +15,15 @@
 
 ## About me
 
-I'm a backend-focused software engineer completing my MCA at Techno Main Salt Lake, Kolkata. I specialise in building **modular, production-grade APIs** and **AI-powered backend systems** — with a strong emphasis on clean architecture, async performance, and real-world data pipelines.
+I'm a backend-focused software engineer , have completed MCA from Techno Main Salt Lake, Kolkata. I specialise in building **modular, production-grade APIs** and **AI-powered backend systems** — with a strong emphasis on clean architecture, async performance, and real-world data pipelines.
 
 My current edge: I bridge traditional backend engineering (FastAPI, PostgreSQL, system design) with modern AI integration (RAG pipelines, LLMs, vector search) — a combination that's increasingly rare and valuable.
 
-- 🔧 Focused on: Backend systems, RESTful API design, AI/ML integration
-- 📍 Based in: Kolkata, West Bengal, India
-- 🎓 MCA — Techno Main Salt Lake (MAKAUT), 2025 | CGPA: 8.11
-- 🌱 Currently exploring: Distributed systems, advanced system design patterns
-- 💼 Open to: SDE / Backend Engineer roles — Full-time & internships
+-  Focused on: Backend systems, RESTful API design, AI/ML integration
+-  Based in: Kolkata, West Bengal, India
+-  MCA — Techno Main Salt Lake (MAKAUT), 2025 
+-  Currently exploring: Distributed systems, advanced system design patterns
+
 
 ---
 
