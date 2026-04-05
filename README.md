@@ -5,7 +5,7 @@
 
 <p><em>Building intelligent backend systems where clean architecture meets real-world scale.</em></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddhant_Thakur-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhantthakur-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddhant_Thakur-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
 [![Email](https://img.shields.io/badge/Email-siddhantt649@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:siddhantt649@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-siddhant--17--codes-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/siddhant-17-codes)
 
@@ -19,11 +19,11 @@ I'm a backend-focused software engineer completing my MCA at Techno Main Salt La
 
 My current edge: I bridge traditional backend engineering (FastAPI, PostgreSQL, system design) with modern AI integration (RAG pipelines, LLMs, vector search) — a combination that's increasingly rare and valuable.
 
--  Focused on: Backend systems, RESTful API design, AI/ML integration
--  Based in: Kolkata, West Bengal, India
--  MCA — Techno Main Salt Lake (MAKAUT), 2025 
--  Currently exploring: Distributed systems, advanced system design patterns
-  
+- 🔧 Focused on: Backend systems, RESTful API design, AI/ML integration
+- 📍 Based in: Kolkata, West Bengal, India
+- 🎓 MCA — Techno Main Salt Lake (MAKAUT), 2025 | CGPA: 8.11
+- 🌱 Currently exploring: Distributed systems, advanced system design patterns
+- 💼 Open to: SDE / Backend Engineer roles — Full-time & internships
 
 ---
 
@@ -103,9 +103,11 @@ A cross-platform mobile application for context-aware mental wellness support.
 
 <div align="center">
 
-![Siddhant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddhant-17-codes&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
+![Siddhant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddhant-17-codes&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant-17-codes&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant-17-codes&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=siddhant-17-codes&theme=github-dark-blue&hide_border=true)
 
 </div>
 
