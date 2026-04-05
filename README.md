@@ -23,8 +23,8 @@ Backend engineer focused on building systems that are fast, modular, and maintai
 I work primarily with **Python · FastAPI · PostgreSQL** — and I've developed a strong edge in AI/ML integration: RAG pipelines, LLM-powered backends, and vector search systems. I care about clean architecture, meaningful abstractions, and writing code that a team can actually maintain.
 
 ```text
-📍 Kolkata, India          🎓 MCA — Techno Main Salt Lake, 2025 (CGPA: 8.11)
-🔧 Backend + AI Systems    💼 Open to SDE / Backend roles — full-time & internships
+ Kolkata, India           MCA — Techno Main Salt Lake, 2025 
+ Backend + AI Systems    
 ```
 
 ---
@@ -70,7 +70,7 @@ I work primarily with **Python · FastAPI · PostgreSQL** — and I've developed
   <tr>
     <td width="50%" valign="top">
 
-### 🔍 ResuHire AI
+###  ResuHire AI
 **Intelligent Resume & Job Matching System**
 
 `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Pydantic` `Async`
@@ -88,7 +88,7 @@ Intent Modelling → Domain Inference
   </td>
   <td width="50%" valign="top">
 
-### 🤖 VisionaryX 2.0
+###  VisionaryX 2.0
 **Full-stack AI Workspace**
 
 `FastAPI` `React` `RAG` `Gemini Vision` `FLUX` `PostgreSQL`
@@ -102,7 +102,7 @@ Query documents with page-level citations, analyse images with Gemini Vision, an
   <tr>
     <td width="50%" valign="top">
 
-### 🧠 MindMate
+###  MindMate
 **Mental Wellness Support Application**
 
 `Flutter` `Firebase` `LLM API`
