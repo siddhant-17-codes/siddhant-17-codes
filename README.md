@@ -103,11 +103,22 @@ A cross-platform mobile application for context-aware mental wellness support.
 
 <div align="center">
 
-![Siddhant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddhant-17-codes&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant-17-codes&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=siddhant-17-codes&theme=github-dark-blue&hide_border=true)
+
+<br/>
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddhant-17-codes&theme=github_dark)
+
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddhant-17-codes&theme=github_dark" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddhant-17-codes&theme=github_dark" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddhant-17-codes&theme=github_dark" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siddhant-17-codes&theme=github_dark&utcOffset=5.5" /></td>
+  </tr>
+</table>
 
 </div>
 
