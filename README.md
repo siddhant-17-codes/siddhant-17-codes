@@ -15,12 +15,10 @@
 
 ## About me
 
-I'm a software engineer with a strong backend foundation in Python, FastAPI, and PostgreSQL, and solid grounding in Data Structures, OOP, DBMS, and System Design. 
-Experienced in building modular RESTful APIs, scalable data pipelines, and intelligent backend systems with emphasis on clean architecture, validation, and async performance. I have deep exposure to AI/ML integration, RAG pipelines, and LLM-powered applications — bringing an edge in modern backend development. 
-A collaborative problem-solver with a consistent record of delivering
-end-to-end projects across backend, mobile, and AI domains
+Backend engineer focused on building systems that are fast, modular, and maintainable.
 
-My current edge: I bridge traditional backend engineering (FastAPI, PostgreSQL, system design) with modern AI integration (RAG pipelines, LLMs, vector search) — a combination that's increasingly rare and valuable.
+I work primarily with **Python · FastAPI · PostgreSQL** — and I've developed a strong edge in
+AI/ML integration: RAG pipelines, LLM-powered backends, and vector search systems.
 
 -  Focused on: Backend systems, RESTful API design, AI/ML integration
 -  Based in: Kolkata, West Bengal, India
