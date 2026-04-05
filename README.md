@@ -5,7 +5,7 @@
 
 <p><em>Building intelligent backend systems where clean architecture meets real-world scale.</em></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddhant_Thakur-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddhant_Thakur-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhantthakur-/)
 [![Email](https://img.shields.io/badge/Email-siddhantt649@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:siddhantt649@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-siddhant--17--codes-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/siddhant-17-codes)
 
