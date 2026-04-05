@@ -1,16 +1,124 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**siddhant-17-codes/siddhant-17-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Siddhant Thakur</h1>
+<h3>Backend Engineer &nbsp;·&nbsp; AI/ML Systems &nbsp;·&nbsp; Python · FastAPI · PostgreSQL</h3>
 
-Here are some ideas to get you started:
+<p><em>Building intelligent backend systems where clean architecture meets real-world scale.</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddhant_Thakur-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![Email](https://img.shields.io/badge/Email-siddhantt649@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:siddhantt649@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-siddhant--17--codes-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/siddhant-17-codes)
+
+</div>
+
+---
+
+## About me
+
+I'm a backend-focused software engineer completing my MCA at Techno Main Salt Lake, Kolkata. I specialise in building **modular, production-grade APIs** and **AI-powered backend systems** — with a strong emphasis on clean architecture, async performance, and real-world data pipelines.
+
+My current edge: I bridge traditional backend engineering (FastAPI, PostgreSQL, system design) with modern AI integration (RAG pipelines, LLMs, vector search) — a combination that's increasingly rare and valuable.
+
+- 🔧 Focused on: Backend systems, RESTful API design, AI/ML integration
+- 📍 Based in: Kolkata, West Bengal, India
+- 🎓 MCA — Techno Main Salt Lake (MAKAUT), 2025 | CGPA: 8.11
+- 🌱 Currently exploring: Distributed systems, advanced system design patterns
+- 💼 Open to: SDE / Backend Engineer roles — Full-time & internships
+
+---
+
+## Tech stack
+
+| Area | Technologies |
+|---|---|
+| **Languages** | Python · Java · C++ · SQL |
+| **Backend & APIs** | FastAPI · SQLAlchemy · Pydantic · Async Programming · RESTful APIs |
+| **Databases** | PostgreSQL · MySQL · Firebase · Relational Modelling · Query Optimisation |
+| **AI / ML** | LangChain · LLMs · RAG · FAISS · Vector Embeddings · spaCy · Transformers |
+| **Cloud & DevOps** | AWS (S3, EC2, IAM) · Docker · Git |
+| **Frontend & Mobile** | Flutter · Streamlit · HTML · CSS |
+| **CS Fundamentals** | DSA · OOP · DBMS · OS · Computer Networks · System Design |
+
+---
+
+## Featured projects
+
+### VisionaryX 2.0 — Full-stack AI Workspace
+> *FastAPI · React · RAG · Gemini Vision · FLUX · PostgreSQL*
+
+A production-grade AI workspace that lets users query documents with page-level citations, analyse images using Gemini Vision, and generate visuals with FLUX — all from a single interface.
+
+- Implemented RAG pipeline with vector embeddings for context-aware document querying
+- Built FastAPI backend with async I/O and clean separation of concerns
+- Integrated multiple AI models (Gemini, FLUX) through a unified API layer
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/siddhant-17-codes/VisionaryX-2.0)
+
+---
+
+### ResuHire AI — Intelligent Resume & Job Matching System
+> *Python · FastAPI · PostgreSQL · SQLAlchemy · Pydantic · Async*
+
+A modular backend system for intelligent resume parsing and candidate-role compatibility scoring.
+
+**The problem it solves:** Traditional job matching is keyword-based and shallow. ResuHire uses a multi-stage decision pipeline to reason about candidate fit at a semantic level.
+
+**Pipeline architecture:**
+```
+Intent Modelling → Domain Inference → Skill Clustering → Weighted Scoring → Constraint Guards
+```
+
+- Designed normalised PostgreSQL schemas with optimised queries for large-scale resume/job datasets
+- Built fully async RESTful APIs with Pydantic validation for reliable, high-throughput request handling
+- Applied layered architecture with clean separation of concerns throughout
+
+> *Private repo — architecture details & design decisions available on request*
+
+---
+
+### MindMate — Mental Wellness Support Application
+> *Flutter · Firebase · LLM API Integration*
+
+A cross-platform mobile application for context-aware mental wellness support.
+
+- Built with Firebase Auth, Firestore real-time sync, and structured conversational workflows
+- Integrated LLM APIs for dynamic, session-aware response generation
+- Designed mood assessment logic to guide users through personalised interactions
+
+> *Private repo — available for review during interviews*
+
+---
+
+## Certifications
+
+- AWS Machine Learning Engineer (MLA-C01)
+- IBM Machine Learning for Data Science
+- Journey to Cloud — AWS
+- NPTEL Internet of Things
+- AWS Generative AI
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+![Siddhant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddhant-17-codes&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant-17-codes&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## What I'm working on
+
+- Uploading **ResuHire AI** to GitHub with full documentation, architecture diagrams, and CI/CD
+- Writing design decision docs for every project (why these tech choices, what tradeoffs were made)
+- Contributing to open source Python/FastAPI ecosystem
+
+---
+
+<div align="center">
+<sub>Open to backend engineering roles · Available for technical conversations · Reach me at siddhantt649@gmail.com</sub>
+</div>
