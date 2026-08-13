@@ -22,9 +22,8 @@ AI/ML integration: RAG pipelines, LLM-powered backends, and vector search system
 
 -  Focused on: Backend systems, RESTful API design, AI/ML integration
 -  Based in: Kolkata, West Bengal, India
--  MCA — Techno Main Salt Lake (MAKAUT), 2025 
+-  MCA — Techno Main Salt Lake (MAKAUT), 2025
 -  Currently exploring: Distributed systems, advanced system design patterns
-
 
 ---
 
@@ -34,39 +33,50 @@ AI/ML integration: RAG pipelines, LLM-powered backends, and vector search system
 |---|---|
 | **Languages** | Python · Java · C++ · SQL |
 | **Backend & APIs** | FastAPI · SQLAlchemy · Pydantic · Async Programming · RESTful APIs |
-| **Databases** | PostgreSQL · MySQL · Firebase · Relational Modelling · Query Optimisation |
-| **AI / ML** | LangChain · LLMs · RAG · FAISS · Vector Embeddings · spaCy · Transformers |
-| **Cloud & DevOps** | AWS (S3, EC2, IAM) · Docker · Git |
-| **Frontend & Mobile** | Flutter · Streamlit · HTML · CSS |
+| **Databases** | PostgreSQL (pgvector) · MySQL · Firebase · Relational Modelling · Query Optimisation |
+| **AI / ML** | LangChain · LLMs · RAG · FAISS · Vector Embeddings · Hugging Face · Transformers · PyTorch · scikit-learn |
+| **Cloud & DevOps** | AWS (S3, EC2, IAM) · Docker · Git · Vercel · Render · Supabase · Railway |
+| **Frontend & Mobile** | React · Next.js · TypeScript · Flutter · Streamlit · HTML · CSS |
 | **CS Fundamentals** | DSA · OOP · DBMS · OS · Computer Networks · System Design |
 
 ---
 
 ## Featured projects
 
+### Reflect — Full-Stack Career Intelligence Platform
+> *Python 3.11 · FastAPI · PostgreSQL (pgvector) · SQLAlchemy 2.0 · Next.js / React / TypeScript*
+
+A modular platform for automated resume-to-JD scoring, architected around independently-owned intelligence modules and a fully typed, contract-first pipeline.
+
+- Architected a modular monolith with **5 independent intelligence modules**, communicating exclusively through typed Pydantic contracts, driving a **6-stage async pipeline** for automated resume-to-JD scoring with 4 cross-validation rules
+- Built a Next.js/React/TypeScript frontend on a contract-first architecture: **7 unit-tested Presentation Model builders (65 passing tests)** and custom ESLint rules enforcing layer boundaries at lint time
+- Implemented structured logging, typed exception routing, JWT auth, and a real-time SSE progress UI with automatic polling fallback, backed by an async test suite (pytest-asyncio, pytest-cov)
+
+> *Private repo — architecture details & design decisions available on request*
+
+---
+
 ### VisionaryX 2.0 — Full-stack AI Workspace
 > *FastAPI · React · RAG · Gemini Vision · FLUX · PostgreSQL*
 
 A production-grade AI workspace that lets users query documents with page-level citations, analyse images using Gemini Vision, and generate visuals with FLUX — all from a single interface.
 
-- Implemented RAG pipeline with vector embeddings for context-aware document querying
-- Built FastAPI backend with async I/O and clean separation of concerns
-- Integrated multiple AI models (Gemini, FLUX) through a unified API layer
+- Implemented a RAG pipeline with page-level citations: semantic chunking, Gemini embeddings, and per-session FAISS indexing across PDF/DOCX documents up to 300+ pages
+- Built a layered FastAPI backend (routers/services/core) integrating 4 AI capabilities: streaming conversational AI, vision analysis, RAG-based document QA, and text-to-image generation
+- Independently rebuilt the original team-built Streamlit prototype into a production FastAPI + React app, deployed live on Vercel (frontend) and Render (backend)
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/siddhant-17-codes/VisionaryX-2.0)
 
 ---
 
-### ResuHire AI — Intelligent Resume & Job Matching System> *Python · FastAPI · PostgreSQL · SQLAlchemy · Pydantic · Async* A modular backend system for intelligent resume parsing and candidate-role compatibility scoring. **The problem it solves:** Traditional job matching is keyword-based and shallow. ResuHire uses a multi-stage decision pipeline to reason about candidate fit at a semantic level. **Pipeline architecture:**```Intent Modelling → Domain Inference → Skill Clustering → Weighted Scoring → Constraint Guards``` - Designed normalised PostgreSQL schemas with optimised queries for large-scale resume/job datasets- Built fully async RESTful APIs with Pydantic validation for reliable, high-throughput request handling- Applied layered architecture with clean separation of concerns throughout > *Private repo — architecture details & design decisions available on request* ---
-
 ### MindMate — Mental Wellness Support Application
 > *Flutter · Firebase · LLM API Integration*
 
-A cross-platform mobile application for context-aware mental wellness support.
+A cross-platform mobile application for context-aware mental wellness support, built and led as a 5-member team project.
 
-- Built with Firebase Auth, Firestore real-time sync, and structured conversational workflows
-- Integrated LLM APIs for dynamic, session-aware response generation
-- Designed mood assessment logic to guide users through personalised interactions
+- Led the team end-to-end: defined requirements, chose the tech stack, and designed the architecture, while building the core backend and conversational logic
+- Built conversational workflows with LLM-generated responses (via OpenRouter), Firebase Auth, and Firestore-backed session persistence
+- Redesigned a core feature (Mood-Based Assessment) within 5 days after feedback challenged the original design's user value proposition
 
 > *Private repo — available for review during interviews*
 
@@ -109,7 +119,7 @@ A cross-platform mobile application for context-aware mental wellness support.
 
 ## What I'm working on
 
-- Uploading **ResuHire AI** to GitHub with full documentation, architecture diagrams, and CI/CD
+- Expanding Reflect's test coverage and writing up its architecture diagrams and design-decision docs
 - Writing design decision docs for every project (why these tech choices, what tradeoffs were made)
 - Contributing to open source Python/FastAPI ecosystem
 
