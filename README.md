@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Siddhant Thakur</h1>
-<h3>Backend Python Developer &nbsp;·&nbsp; FastAPI · PostgreSQL · LLM &amp; RAG systems</h3>
+<h3>Backend Engineer &nbsp;·&nbsp; Python · FastAPI · PostgreSQL · LLM &amp; RAG systems</h3>
 
 <p><em>I start with the system, not the screen: where the data lives, what happens when many people use it at once, what each request costs, and what someone sees when it breaks.</em></p>
 
@@ -16,12 +16,12 @@
 
 ## About me
 
-I'm a backend Python developer in Kolkata. I build systems end to end and then run them: FastAPI services on PostgreSQL, background pipelines, and LLM features designed for cost and failure.
+I'm a backend engineer in Kolkata, working mainly in Python. I build systems end to end and then run them: FastAPI services on PostgreSQL, background pipelines, and LLM features designed for cost and failure.
 
 - **Building:** Reflect, a live résumé-to-job analysis platform I designed, built and operate
 - **Strong in:** API design, relational data, RAG, testing the way a system actually fails
 - **Background:** MCA, Techno Main Salt Lake (MAKAUT), 2025 · B.Sc. Computer Science, University of Calcutta
-- **Open to:** backend and Python developer roles (India or remote) and freelance API work
+- **Open to:** backend engineering roles (India or remote) and freelance API work
 
 The incident write-ups, what broke and how I fixed it, are on my [portfolio](https://siddhantthakur.pages.dev/#incidents).
 
@@ -77,15 +77,14 @@ Hand-built static site with a live health-check trace of my deployed projects, a
 ## Achievements
 
 <p>
-  <a href="https://github.com/siddhant-17-codes?tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="72" alt="Pull Shark" title="Pull Shark: opened pull requests that have been merged" /></a>
+  <a href="https://github.com/siddhant-17-codes?tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="72" alt="Pull Shark x2" title="Pull Shark x2 (Bronze): opened pull requests that have been merged" /></a>
   &nbsp;
-  <a href="https://github.com/siddhant-17-codes?tab=achievements"><img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="72" alt="Pair Extraordinaire" title="Pair Extraordinaire: co-authored commits on merged pull requests" /></a>
+  <a href="https://github.com/siddhant-17-codes?tab=achievements"><img src="https://github.githubassets.com/assets/pair-extraordinaire-bronze-797214f41e7e.png" width="72" alt="Pair Extraordinaire x2" title="Pair Extraordinaire x2 (Bronze): co-authored commits on merged pull requests" /></a>
 </p>
 
-- **Pull Shark** (GitHub, Nov 2026): opened pull requests that were merged
-- **Pair Extraordinaire** (GitHub, Nov 2026): co-authored commits on merged pull requests
+- **Pull Shark x2** (GitHub, Bronze tier): opened pull requests that were merged
+- **Pair Extraordinaire x2** (GitHub, Bronze tier): co-authored commits on merged pull requests
 - **HackerRank Orchestrate** (Oct 2026): built and deployed an AI agent, ranked 971 of 4,094
-- **WBJEE JECA 2023:** state rank 530
 
 ## Certifications
 
